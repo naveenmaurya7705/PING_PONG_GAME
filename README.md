@@ -1,4 +1,4 @@
-# Ping_Pong_Game you can start the game by pressing ENTER key and move are taken care by ARROW KEY
+# Ping_Pong_Game you can start the game by pressing ENTER key and move are taken care by ARROW KEY.
 Hi everyone, I make this ping pong game using HTML, CSS and JAVASCRIPT .
 It includes the following features:
 Constants for game elements and variables to track scores, maximum score, and ball position.
